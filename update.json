@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 38,
-    "latestVersionName": "1.3.8",
+    "latestVersionCode": 37,
+    "latestVersionName": "1.3.7",
     "releaseNotes": "- Hỗ trợ các nguồn plugin kênh TV\n- Thêm quản lý nguồn phim trong cài đặt\n- Fix lỗi tìm kiếm trên TV",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/app-release.apk"
 }
