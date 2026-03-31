@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 40,
-    "latestVersionName": "1.4.0",
-    "releaseNotes": "- Tối ưu, fix các lỗi gây treo, lag\n- Thêm Cronet bypass chặn từ nhà mạng\n- Thêm quản lý nguồn phim trong cài đặt\n- Backup yêu thích và lịch sử xem trước khi update",
+    "latestVersionCode": 50,
+    "latestVersionName": "1.5.0",
+    "releaseNotes": "- Tối ưu, fix các lỗi gây treo, lag\n- Thêm Cronet bypass chặn từ nhà mạng\n- Backup yêu thích và lịch sử xem trước khi update",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/app-release.apk"
 }
