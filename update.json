@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 55,
-    "latestVersionName": "1.5.5",
-    "releaseNotes": "- Fix một số lỗi gây treo, đơ thiết bị\n- Backup yêu thích và lịch sử xem trước khi update",
+    "latestVersionCode": 56,
+    "latestVersionName": "1.5.6",
+    "releaseNotes": "- Fix lỗi chọn nguồn phim\n- Backup yêu thích và lịch sử xem trước khi update",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/app-release.apk"
 }
