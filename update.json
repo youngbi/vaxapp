@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 58,
-    "latestVersionName": "1.5.8",
-    "releaseNotes": "- Fix lỗi player\n- Lưu ý không xóa app, không xóa các nguồn phim trong thời điểm này",
+    "latestVersionCode": 59,
+    "latestVersionName": "1.5.9",
+    "releaseNotes": "- Fix lỗi lag bị dừng khi xem phim\n- Lưu ý không xóa app, không xóa các nguồn phim trong thời điểm này",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/app-release.apk"
 }
