@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 62,
-    "latestVersionName": "1.6.2",
+    "latestVersionCode": 61,
+    "latestVersionName": "1.6.1",
     "releaseNotes": "- Tối ưu tua bằng điều khiển cho TV\n- Hướng dẫn add nguồn phim mới: Chỉ cần sửa link nguồn từ repo thành repov \n- Lưu ý không xóa app, không xóa các nguồn phim trong thời điểm này",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/app-release.apk"
 }
