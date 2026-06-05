@@ -1,0 +1,6 @@
+{
+    "latestVersionCode": 01,
+    "latestVersionName": "1.0.1",
+    "releaseNotes": "- Tối ưu giao diện, tốc độ\n- Tối ưu voice tts online\n- Fix lỗi tự thoát APP",
+    "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/TtsReader.apk"
+}
