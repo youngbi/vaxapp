@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 65,
-    "latestVersionName": "1.6.5",
-    "releaseNotes": "- Tối ưu giao diện, tốc độ trên TV\n- Fix lỗi tự thoát APP\n- Tối ưu tua bằng điều khiển cho TV",
+    "latestVersionCode": 66,
+    "latestVersionName": "1.6.6",
+    "releaseNotes": "- Thêm login ở trang quản lý nguồn\n- CLB Phim Xưa cần login tài khoản\n- Đã cập nhật lại nguồn chuẩn khi gõ 6666",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/VaxPlayer.apk"
 }
