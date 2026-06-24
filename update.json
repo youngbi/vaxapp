@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 66,
-    "latestVersionName": "1.6.6",
-    "releaseNotes": "- Thêm login ở trang quản lý nguồn\n- CLB Phim Xưa cần login tài khoản\n- Đã cập nhật lại nguồn chuẩn khi gõ 6666",
+    "latestVersionCode": 67,
+    "latestVersionName": "1.6.7",
+    "releaseNotes": "- Fix lỗi không mở được app ở một số TV, Box Android\n- Thêm login ở trang quản lý nguồn\n- CLB Phim Xưa cần login tài khoản\n- Đã cập nhật lại nguồn chuẩn khi gõ 6666",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/VaxPlayer.apk"
 }
