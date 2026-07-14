@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 71,
-    "latestVersionName": "1.7.1",
-    "releaseNotes": "- Thêm tính năng tự lồng tiếng cho phim với các nguồn có phụ đề gắn ngoài\n- Bật trong cài đặt, nguồn hỗ trợ phimhdcs, missav\n- Fix lỗi không mở được app ở một số TV, Box Android\n- Thêm login ở trang quản lý nguồn\n- CLB Phim Xưa cần login tài khoản",
+    "latestVersionCode": 72,
+    "latestVersionName": "1.7.2",
+    "releaseNotes": "Tối ưu APP\n- Thêm tính năng tự lồng tiếng cho phim với các nguồn có phụ đề gắn ngoài\n- Bật trong cài đặt, nguồn hỗ trợ phimhdcs, missav\n- Thêm login ở trang quản lý nguồn\n- CLB Phim Xưa cần login tài khoản",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/VaxPlayer.apk"
 }
