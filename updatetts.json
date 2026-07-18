@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 7,
-    "latestVersionName": "1.0.7",
-    "releaseNotes": "- Fix và tối ưu app\n- Fix lỗi tự thoát APP",
+    "latestVersionCode": 8,
+    "latestVersionName": "1.0.8",
+    "releaseNotes": "- Fix và tối ưu chế độ đọc ngang\n- Thêm nhập, xuất xóa bộ lọc rác",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/TtsReader.apk"
 }
