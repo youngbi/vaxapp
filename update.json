@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 75,
-    "latestVersionName": "1.7.5",
-    "releaseNotes": "- Thêm chọn chất lượng phim\n- Thêm tính năng tìm kiếm riêng cho từng nguồn\n- Thêm tính năng tự lồng tiếng cho phim với các nguồn có phụ đề gắn ngoài\n- Bật trong cài đặt, nguồn hỗ trợ phimhdcs, missav\n- Thêm login ở trang quản lý nguồn\n- CLB Phim Xưa cần login tài khoản",
+    "latestVersionCode": 76,
+    "latestVersionName": "1.7.6",
+    "releaseNotes": "- Fix nhiều bug, tối ưu app\n- Thêm chọn chất lượng phim\n- Thêm tính năng tìm kiếm riêng cho từng nguồn",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/VaxPlayer.apk"
 }
