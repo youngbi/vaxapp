@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 78,
-    "latestVersionName": "1.7.8",
+    "latestVersionCode": 79,
+    "latestVersionName": "1.7.9",
     "releaseNotes": "- Fix nhiều bug, tối ưu app\n- Thêm chọn chất lượng phim\n- Thêm tính năng tìm kiếm riêng cho từng nguồn",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/VaxPlayer.apk"
 }
