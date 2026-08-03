@@ -1,6 +1,7 @@
 {
-    "latestVersionCode": 80,
-    "latestVersionName": "1.8.0",
-    "releaseNotes": "- Fix nhiều bug, tối ưu app\n- Thêm hệ thống AI để tìm link phim bị giấu\n- Thêm tính năng tìm kiếm riêng cho từng nguồn",
-    "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/VaxPlayer.apk"
+  "latestVersionCode": 81,
+  "latestVersionName": "1.8.1",
+  "releaseNotes": "- Fix nhiều bug, tối ưu app\n- Thêm hệ thống AI để tìm link phim bị giấu\n- Thêm tính năng tìm kiếm riêng cho từng nguồn",
+  "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/VaxPlayer.apk",
+  "CloseApp": 1
 }
