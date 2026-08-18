@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 83,
-  "latestVersionName": "1.8.3",
-  "releaseNotes": "- Tối ưu lại UI/UX để trải nghiệm tốt hơn\n- Thêm tùy chỉnh phụ đề\n- Fix nhiều bug, tối ưu app\n- Bắt buộc update bản này mới đọc được các nguồn plugin mới",
+  "latestVersionCode": 84,
+  "latestVersionName": "1.8.4",
+  "releaseNotes": "- Tối ưu lại UI/UX để trải nghiệm tốt hơn\n- Thêm tùy chỉnh phụ đề\n- Fix nhiều bug, tối ưu app",
   "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/VaxPlayer.apk",
   "CloseApp": 1
 }
