@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 86,
-  "latestVersionName": "1.8.6",
-  "releaseNotes": "- Fix lỗi thoát app khi vào kho plugin\n- Fix lỗi lặt vặt tìm thấy\n- Thêm tùy chọn âm thanh chất lượng cao và phụ đề nếu phim gốc hỗ trợ\n- Thêm tùy chỉnh phụ đề",
+  "latestVersionCode": 87,
+  "latestVersionName": "1.8.7",
+  "releaseNotes": "- Fix lỗi thoát app khi vào kho plugin\n- Tăng tốc độ tìm server phim nhanh hơn\n- Thêm tùy chọn âm thanh chất lượng cao và phụ đề nếu phim gốc hỗ trợ\n- Thêm tùy chỉnh phụ đề",
   "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/VaxPlayer.apk",
   "CloseApp": 1
 }
