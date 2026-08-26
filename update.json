@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 89,
-  "latestVersionName": "1.8.9",
-  "releaseNotes": "- Fix lỗi tts, fix lỗi thêm nguồn \n- Thêm nút tải lại trang chủ cho TV\n- Thêm nhấn giữ nguồn để thêm vào yêu thích",
+  "latestVersionCode": 90,
+  "latestVersionName": "1.9.0",
+  "releaseNotes": "- Thêm chọn nguồn nhanh cho TV ở Home và phím menu\n- Tối ưu tốc độ cho TV\n- Thêm nhấn giữ nguồn để thêm vào yêu thích",
   "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/VaxPlayer.apk",
   "CloseApp": 1
 }
