@@ -1,6 +1,6 @@
 {
-    "latestVersionCode": 9,
-    "latestVersionName": "1.0.9",
-    "releaseNotes": "- Fix lỗi, thêm tìm kiếm sách\n- Thêm nhập, xuất xóa bộ lọc rác",
+    "latestVersionCode": 10,
+    "latestVersionName": "1.1.0",
+    "releaseNotes": "- Tối ưu chất lượng giọng đọc\n- Fix lỗi, thêm tìm kiếm sách\n- Thêm nhập, xuất xóa bộ lọc rác",
     "downloadUrl": "https://raw.githubusercontent.com/youngbi/vaxapp/main/TtsReader.apk"
 }
