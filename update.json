@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 94,
-  "latestVersionName": "1.9.4",
+  "latestVersionCode": 95,
+  "latestVersionName": "1.9.5",
   "releaseNotes": "- Tối ưu cho TV\n- Thêm tùy chọn đổi icon App trong cài đặt\n- Thêm chọn nguồn nhanh cho TV ở Home và phím menu\n- Thêm nhấn giữ nguồn để thêm vào yêu thích",
   "downloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.apk",
   "CloseApp": 1
