@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 97,
-  "latestVersionName": "1.9.7",
-  "releaseNotes": "- Tối ưu toàn bộ app\n- Các phiên bản cũ sẽ khóa lại sau ngày 25/10",
+  "latestVersionCode": 98,
+  "latestVersionName": "1.9.8",
+  "releaseNotes": "- Tối ưu lại app\n- Fix các bug mới tìm thấy",
   "downloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.apk",
   "iosdownloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.ipa",
-  "CloseApp": 1,
+  "CloseApp": 0,
   "minSupportedVersionCode": 97,
   "isAppActive": true
 }
