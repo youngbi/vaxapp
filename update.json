@@ -3,9 +3,11 @@
   "latestVersionName": "1.9.8",
   "releaseNotes": "- Tối ưu lại app\n- Fix các bug mới tìm thấy",
   "downloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.apk",
-  "ApplereleaseNotes": "- Tối ưu lại app\n- Fix các bug mới tìm thấy",
-  "iosdownloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.ipa",
+  "AppleReleaseNotes": "- Tối ưu lại app\n- Fix các bug mới tìm thấy",
+  "iosDownloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.ipa",
   "CloseApp": 0,
   "minSupportedVersionCode": 98,
-  "isAppActive": true
+  "isAppActive": true,
+  "vaxVersion": "1.0.0",
+  "vaxUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/core_decryptors.vax"
 }
