@@ -1,6 +1,13 @@
 {
   "extensions": [
     {
+      "id": "core_decryptors",
+      "name": "Core Media Decryptors",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "url": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/core_decryptors.vax"
+    },
+    {
       "id": "streamfree",
       "name": "Streamfree DRM Decryptor",
       "version": "1.0.0",
