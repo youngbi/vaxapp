@@ -1,0 +1,11 @@
+{
+  "extensions": [
+    {
+      "id": "streamfree",
+      "name": "Streamfree DRM Decryptor",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "url": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/streamfree.vax"
+    }
+  ]
+}
