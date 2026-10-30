@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 98,
-  "latestVersionName": "1.9.8",
-  "releaseNotes": "- Tối ưu lại app\n- Fix các bug mới tìm thấy",
+  "latestVersionCode": 99,
+  "latestVersionName": "1.9.9",
+  "releaseNotes": "- Thêm 253 giọng lồng tiếng\n- Hỗ trợ lồng tiếng tự động bằng AI \n- Thêm login TV bằng điện thoại\n- Tối ưu cho ios nhưng chưa có AI, giọng mới ở bản update này",
   "downloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.apk",
   "AppleReleaseNotes": "- Tối ưu lại app\n- Fix các bug mới tìm thấy",
   "iosDownloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.ipa",
