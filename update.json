@@ -1,14 +1,14 @@
 {
-  "latestVersionCode": 99,
-  "latestVersionName": "1.9.9",
+  "latestVersionCode": 100,
+  "latestVersionName": "2.0.0",
   "latestVersionCodeios": 100,
   "latestVersionNameios": "2.0.0",
-  "releaseNotes": "- Thêm 253 giọng lồng tiếng\n- Hỗ trợ lồng tiếng tự động bằng AI \n- Thêm login TV bằng điện thoại\n- Tối ưu cho ios nhưng chưa có AI, giọng mới ở bản update này",
+  "releaseNotes": "- Tối ưu, làm đẹp giao diện, fix nhiều bug\n- Thêm nhiều thư viện giọng lồng tiếng \n- Thêm vuốt tăng giảm âm lượng, độ sáng trên trình player\n- Thêm login TV bằng điện thoại",
   "downloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.apk",
   "ApplereleaseNotes": "- Tối ưu lại app\n- Fix các bug mới tìm thấy",
   "iosdownloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.ipa",
   "CloseApp": 0,
-  "minSupportedVersionCode": 98,
+  "minSupportedVersionCode": 100,
   "isAppActive": true,
   "vaxVersion": "1.0.9",
   "vaxUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/core_decryptors.vax"
