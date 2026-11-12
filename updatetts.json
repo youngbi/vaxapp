@@ -1,6 +1,6 @@
 {
     "latestVersionCode": 14,
     "latestVersionName": "1.0.14",
-    "releaseNotes": "- Thêm tính năng tải truyện offline để nghe với giọng đọc online\n- Thêm các giọng đọc mới\n- Thêm tính năng tự tạo giọng đọc\n- Thêm nhập, xuất xóa bộ lọc rác",
+    "releaseNotes": "- Thêm tính năng tải truyện offline để nghe với giọng đọc online\n- Thêm các giọng đọc mới\n- Thêm nhập, xuất xóa bộ lọc rác\n- Tối ưu tốc độ ứng dụng",
     "downloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/TtsReader.apk"
 }
