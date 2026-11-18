@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 100,
-  "latestVersionName": "2.0.0",
+  "latestVersionCode": 101,
+  "latestVersionName": "2.0.1",
   "latestVersionCodeios": 100,
   "latestVersionNameios": "2.0.0",
-  "releaseNotes": "- Tối ưu, làm đẹp giao diện, fix nhiều bug\n- Thêm nhiều thư viện giọng lồng tiếng \n- Thêm vuốt tăng giảm âm lượng, độ sáng trên trình player\n- Thêm login TV bằng điện thoại",
+  "releaseNotes": "- Làm mới giao diện app và trình phát Player đẹp hơn\n- Tối ưu hiệu năng giúp app chạy mượt, mát máy hơn và sửa nhiều lỗi\n- Tìm nhiều server chính xác hơn, lọc đúng theo thể loại nguồn đang xem\n- Thêm bỏ qua Intro/Outro theo từng phim, từng nguồn phát\n- Thêm dịch truyện tranh, truyện chữ trực tiếp và hỗ trợ nhiều model dịch AI\n- Thêm dịch phụ đề bằng AI hỗ trợ phân vai giọng Nam/Nữ",
   "downloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.apk",
   "ApplereleaseNotes": "- Tối ưu lại app\n- Fix các bug mới tìm thấy",
   "iosdownloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.ipa",
