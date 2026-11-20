@@ -10,6 +10,6 @@
   "CloseApp": 0,
   "minSupportedVersionCode": 100,
   "isAppActive": true,
-  "vaxVersion": "1.0.9",
+  "vaxVersion": "1.1.0",
   "vaxUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/core_decryptors.vax"
 }
