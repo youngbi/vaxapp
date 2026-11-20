@@ -3,7 +3,7 @@
   "latestVersionName": "2.0.2",
   "latestVersionCodeios": 100,
   "latestVersionNameios": "2.0.0",
-  "releaseNotes": "- Fix lỗi TV bị kẹt ở trang thêm nguồn\n- Thêm chức năng hồ sơ xem phim riêng cho gia đình \n- Tối ưu hiệu năng giúp app chạy mượt, mát máy hơn và sửa nhiều lỗi",
+  "releaseNotes": "- Fix lỗi TV bị kẹt ở trang thêm nguồn\n- Thêm chức năng hồ sơ xem phim riêng cho gia đình\n- Tối ưu hiệu năng giúp app chạy mượt, mát máy hơn và sửa nhiều lỗi",
   "downloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.apk",
   "ApplereleaseNotes": "- Tối ưu lại app\n- Fix các bug mới tìm thấy",
   "iosdownloadUrl": "https://github.com/youngbi/vaxapp/releases/download/NewUpdate/VaxPlayer.ipa",
